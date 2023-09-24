@@ -2,7 +2,7 @@
 <p align="center">An AirBnB clone.</p>
 
 <p align="center">
-  <img src="https://github.com/cutspot3200/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
+  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
 	    alt="AirBnB logo">
 </p>
 
@@ -22,7 +22,7 @@ deploy in the coming month:
 * Serving of dynamic content using JavaScript
 
 <p align="center">
-  <img src="https://github.com/cutespot3200/AirBnB_clone_v2/blob/master/assets/hbnb_stack.png"
+  <img src="https://github.com/bdbaraban/AirBnB_clone_v2/blob/master/assets/hbnb_stack.png"
 	    alt="AirBnB stack">
 </p>
 
